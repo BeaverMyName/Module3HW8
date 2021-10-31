@@ -1,0 +1,15 @@
+1;Igor;Male;22
+2;Peter;Male;24
+3;Mira;Female;18
+4;Sergey;Male;33
+5;Tom;Male;26
+6;Nick;Male;77
+7;Semen;Male;55
+8;Alex;Female;33
+9;Oksana;Female;90
+10;Andrey;Male;40
+11;Maria;Female;66
+12;Stas;Male;22
+13;Anastasia;Female;44
+14;Maximus;Male;99
+15;Pavel;Male;30
